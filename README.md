@@ -1,3 +1,3 @@
 # practice
-first git repository for practice
-Author - Abdul mlik
+first git repository for practice.
+Author - Abdul malik
